@@ -84,6 +84,7 @@ a {
 
 a:hover {
     text-decoration: underline;
+    color: #0056b3;
 }
 
 footer {
@@ -93,6 +94,10 @@ footer {
     padding: 1rem;
     margin-top: 20px;
     width: 100%;
+}
+
+h1, h2 {
+    color: #333;
 }
 
 @media (min-width: 769px) {
